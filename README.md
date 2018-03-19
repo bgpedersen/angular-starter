@@ -1,6 +1,18 @@
-# AngularStarter
+# Angular Starter
+Angular 5 starter application ready to use with Bootstrap v4, NG-Bootstrap, Font-Awesome 4.7 and Moment.js
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
+
+## Structure
+* Core module setup for global models, services etc.
+* Routing module
+* Guard for routes
+
+## Ready to use with following libraries
+* Bootstrap v4
+* NG-Bootstrap
+* Fontawesome 4.7
+* Moment.js
 
 ## Development server
 
