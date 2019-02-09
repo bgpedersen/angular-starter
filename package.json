@@ -23,7 +23,7 @@
     "@angular/router": "^5.2.0",
     "@ng-bootstrap/ng-bootstrap": "^1.0.4",
     "bootstrap": "^4.2.1",
-    "core-js": "^2.4.1",
+    "core-js": "^2.6.4",
     "font-awesome": "^4.7.0",
     "lodash": "^4.17.11",
     "moment": "^2.21.0",
